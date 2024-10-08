@@ -1,0 +1,3 @@
+# .txt file
+GITHUB_TOKEN=ghp_yourGitHubTokenHere123456789abcdefghijklmn123456
+DB_PASSWORD=EXAMPLEPASSWORD123456
