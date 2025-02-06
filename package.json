@@ -1,0 +1,10 @@
+{
+  "name": "vulnerable-node-project",
+  "version": "1.0.0",
+  "description": "Example project with potentially vulnerable dependencies",
+  "dependencies": {
+    "lodash": "4.17.15",  // Older version - check for vulnerabilities
+    "express": "4.16.4",   // Older version - check for vulnerabilities
+    "moment": "2.24.0"    // Older version - check for vulnerabilities
+  }
+}
